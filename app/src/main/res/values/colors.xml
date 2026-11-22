@@ -1,0 +1,11 @@
+<resources>
+    <color name="bg_dark_gray">#1E1E1E</color>
+    <color name="bg_header">#2A2A2A</color>
+    <color name="bg_item_normal">#2D2D2D</color>
+    <color name="bg_item_focused">#455A64</color>
+    <color name="bg_folder_yellow">#FBC02D</color>
+    <color name="bg_folder_yellow_focused">#FFF176</color>
+    <color name="text_light">#F5F5F5</color>
+    <color name="text_muted">#B0BEC5</color>
+    <color name="text_dark">#1A1A1A</color>
+</resources>
